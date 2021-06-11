@@ -1,0 +1,13 @@
+gast==0.3.3
+scipy==1.4.1
+Pillow==7.1.2
+cython==0.29.22
+matplotlib==3.2.2
+scikit-image>=0.14.2 
+tensorflow==1.15.3 
+keras==2.2.4 
+opencv-python==4.1.2.30
+h5py==2.10.0
+imgaug==0.2.9
+mrcnn==0.2
+google_streetview >=1.2.9
